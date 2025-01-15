@@ -31,4 +31,4 @@ The model was evaluated based on accuracy, precision, recall, and F1 score. Belo
 ### Confusion Matrix
 The confusion matrix shows the performance of the model in classifying spam messages.
 
-![Confusion Matrix](Images/Confusion Matrix.png)
+![Confusion Matrix](Images/Confusion%20Matrix.png)
