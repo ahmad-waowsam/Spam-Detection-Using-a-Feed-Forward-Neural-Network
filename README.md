@@ -26,9 +26,9 @@ The `neural_network.ipynb` file contains the core of the neural network, includi
 ### Model Evaluation
 The model was evaluated based on accuracy, precision, recall, and F1 score. Below are the results:
 
-![Model Evaluation](path/to/your/evaluation_image.png)
+![Model Evaluation](Images/evaluation.png)
 
 ### Confusion Matrix
 The confusion matrix shows the performance of the model in classifying spam messages.
 
-![Confusion Matrix](path/to/your/confusion_matrix_image.png)
+![Confusion Matrix](Images/Confusion Matrix.png)
